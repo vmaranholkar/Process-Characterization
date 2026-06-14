@@ -7,5 +7,5 @@ process development applications.
 The code is provided for academic and research purposes only.
 Commercial use requires prior written permission.
 
-Reference
+Reference:
 Saleh, D., Wang, G., Müller, B., Rischawy, F., Kluters, S., Studts, J., & Hubbuch, J. (2020). Straightforward method for calibration of mechanistic cation exchange chromatography models for industrial applications. Biotechnology progress, 36(4), e2984.
